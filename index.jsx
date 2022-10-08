@@ -1,5 +1,0 @@
-const a = () => {
-    return {
-        <div>
-    }
-}
